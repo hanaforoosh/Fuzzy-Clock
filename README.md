@@ -11,5 +11,5 @@ All the honor goes to @Cj-Malone. I just translated his work in Persian.
 
 ## GIT
 ```
-git clone https://github.com/hanaforoosh/Fuzzy-Clock ${XDG_DATA_HOME:=$HOME/.local/share}/gnome-shell/extensions/fuzzy-clock@keepawayfromfire.co.uk/
+git clone https://github.com/hanaforoosh/Fuzzy-Clock ${XDG_DATA_HOME:=$HOME/.local/share}/gnome-shell/extensions/fuzzy-clock@mahrad/
 ```
