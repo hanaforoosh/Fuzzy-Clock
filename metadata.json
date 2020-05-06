@@ -1,14 +1,14 @@
 {
 	"name": "Fuzzy Clock",
-	"description": "Make the top bar clock fuzzy",
+	"description": "ساعت را به شکل محاوره‌ای در آورید",
 	"shell-version": [
 		"3.22",
 		"3.24",
 		"3.26",
 		"3.28"
 	],
-	"url": "https://github.com/Cj-Malone/Fuzzy-Clock",
-	"uuid": "fuzzy-clock@keepawayfromfire.co.uk",
+	"url": "https://github.com/hanaforoosh/Fuzzy-Clock",
+	"uuid": "fuzzy-clock@mahrad",
 	"version": 1
 }
 
