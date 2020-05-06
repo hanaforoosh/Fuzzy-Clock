@@ -1,6 +1,6 @@
 {
-	"name": "Fuzzy Clock",
-	"description": "ساعت را به شکل محاوره‌ای در آورید",
+	"name": "ساعت حدودی",
+	"description": "ساعت را به شکل حدودی در آورید",
 	"shell-version": [
 		"3.22",
 		"3.24",
