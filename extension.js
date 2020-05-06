@@ -1,30 +1,30 @@
 const Main = imports.ui.main;
 const GLib = imports.gi.GLib;
 
-var HOURS = [ "TWELVE",
-	"ONE",
-	"TWO",
-	"THREE",
-	"FOUR",
-	"FIVE",
-	"SIX",
-	"SEVEN",
-	"EIGHT",
-	"NINE",
-	"TEN",
-	"ELEVEN" ];
-var FUZZY_RULES = [ "%s O'CLOCK",
-	"FIVE past %s",
-	"TEN past %s",
-	"QUARTER past %s",
-	"TWENTY past %s",
-	"TWENTY FIVE past %s",
-	"HALF past %s",
-	"TWENTY FIVE to %s",
-	"TWENTY to %s",
-	"QUARTER to %s",
-	"TEN to %s",
-	"FIVE to %s" ];
+var HOURS = [ "دوازده",
+	"یک",
+	"دو",
+	"سه",
+	"چهار",
+	"پنج",
+	"شش",
+	"هفت",
+	"هشت",
+	"نه",
+	"ده",
+	"یازده" ];
+var FUZZY_RULES = [ "%s تمام",
+	"%s و پنج دقیقه",
+	"%s و ده دقیقه",
+	"%s و ربع",
+	"%s و بیست دقیقه",
+	"%s و بیست و پنج دقیقه",
+	"%s و نیم",
+	"بیست و پنج دقیقه به %s",
+	"بیست دقیقه به %s",
+	"یه ربع به %s",
+	"ده دقیقه به %s",
+	"پنج دقیقه به %s" ];
 
 var clockLabel;
 var signalID;
@@ -93,4 +93,3 @@ function disable() {
 		clockLabel.set_text(defaultText);
 	}
 }
-
