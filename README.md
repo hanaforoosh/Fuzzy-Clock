@@ -1,7 +1,10 @@
-# Fuzzy Clock
+# Persian Fuzzy Clock
 Replace the Gnome Shell clock with a Fuzzy clock.
 
 ![Screenshot](screenshot.png)
+
+# Attention
+All the honor goes to @Cj-Malone. I just translated his work in Persian.
 
 # Install
 ## [Gnome Software](appstream://fuzzy-clock_keepawayfromfire.co.uk)
