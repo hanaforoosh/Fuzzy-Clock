@@ -13,4 +13,4 @@ All credit goes to [@Cj-Malone](https://github.com/Cj-Malone). I just translated
 ```
 git clone https://github.com/hanaforoosh/Fuzzy-Clock ${XDG_DATA_HOME:=$HOME/.local/share}/gnome-shell/extensions/fuzzy-clock@mahrad/
 ```
-maybe a shell restart is required. you can do this by `alt + f2` and then type `r` in the box.
+maybe a shell restart is required. you can do this by `alt + f2` and then typing `r` in the pop-up box. you need to enable it in the extensions app if it is not already enabled.
